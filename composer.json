@@ -1,0 +1,19 @@
+{
+    "name": "yousuf-alhadhrami/math",
+    "description": "just for learning",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YousufAlhadhrami\\Math\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yousuf AL-Hadhrami",
+            "email": "izkiboy@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
